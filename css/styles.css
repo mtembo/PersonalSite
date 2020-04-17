@@ -99,7 +99,7 @@ top: 40px;
 
 .profilepic {
   margin: 50px 500px 0 500px;
-  transform: rotate(90deg);
+  /* transform: rotate(90deg); */
   height:237.88px;
   width: 237.88px;
   border-radius: 50%;
